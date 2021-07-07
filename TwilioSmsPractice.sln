@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioSmsPractice", "TwilioSmsPractice\TwilioSmsPractice.csproj", "{0A0E8843-34B3-49ED-9E9A-AA3478DB2052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0E8843-34B3-49ED-9E9A-AA3478DB2052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0E8843-34B3-49ED-9E9A-AA3478DB2052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0E8843-34B3-49ED-9E9A-AA3478DB2052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0E8843-34B3-49ED-9E9A-AA3478DB2052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF7B1E3-1D10-4017-BE75-09C373533A7A}
+	EndGlobalSection
+EndGlobal
